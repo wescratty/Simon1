@@ -9,6 +9,7 @@
 # This program simulates the "Simon" game from the
 # 80's or 90's
 ##############################################
+#adding comment
 import tkinter as tk
 import random
 import tkinter.ttk as ttk
